@@ -3,7 +3,7 @@ class Prog5
     static int a=10;
     static int b; //declaration of b need to be outside  static block
     static {
-        b=20;
+         b=20;
         //System.out.println(b);
         System.out.println("hi");
     }
