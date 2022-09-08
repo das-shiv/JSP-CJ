@@ -15,7 +15,8 @@ class Adhar{
         System.out.println(a.adharno);
         System.out.println("-----------");
         System.out.println("Thank you");
-        System.out.println("Visit again");
+        System.out.println("Visit againls" +
+                "");
     }
 
 
